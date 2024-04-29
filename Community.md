@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Shruti Patil</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Shruti-lab</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/shruti-p-0724b0207/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology Goa</td>
+      </tr>
+ </table>
